@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/miljushm/deepbot-releases/releases/latest"><b>Download for Windows</b></a>
+  <a href="https://github.com/deepbot-studio/deepbot-releases/releases/latest"><b>Download for Windows</b></a>
   &nbsp;·&nbsp;
   <a href="https://deepbot.studio">deepbot.studio</a>
 </p>
