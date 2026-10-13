@@ -40,6 +40,12 @@ terminal and files, and they hand work to each other.
 Your chats, your Bots' files, their memory and your keys stay on your computer, in
 `%LOCALAPPDATA%\DeepBot\data`. An update never touches that folder.
 
+## Terms
+
+By downloading, installing or using DeepBot you accept the
+[Terms of service](https://deepbot.studio/terms), and you agree to the
+[Privacy policy](https://deepbot.studio/privacy).
+
 ## About this repository
 
 This repository holds releases only: the installer, its signature, `latest.json` (what an installed
