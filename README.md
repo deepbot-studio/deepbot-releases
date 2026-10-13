@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="banner.png" alt="DeepBot - your own AI team, on your computer" width="640">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+    <img src="banner-light.svg" alt="DeepBot - Your own AI team, on your computer." width="560">
+  </picture>
 </p>
 
-<h1 align="center">DeepBot</h1>
-
 <p align="center">
-  <b>Your own AI team, on your computer.</b><br>
   <a href="https://github.com/miljushm/deepbot-releases/releases/latest"><b>Download for Windows</b></a>
   &nbsp;·&nbsp;
   <a href="https://deepbot.studio">deepbot.studio</a>
